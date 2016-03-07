@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="white">@android:color/white</color>
+    <color name="darkgray">@android:color/darker_gray</color>
+    <color name="gray">#90444444</color>
+    <color name="gray_a7">#a7a7a7</color>
+    <color name="grayf2">#F2F2F2</color>
+    <color name="black_a0">#a0a0a0</color>
+    <color name="blue_48acfd">#48acfd</color>
+    <color name="navcolor">#807f7f</color>
+    <!--     <color name="blue">#0672B8</color> -->
+    <color name="blue_regist">#26A2D2</color>
+    <color name="list_item_bg">#e9e9e9</color>
+    <color name="gray_bg">#55ffffff</color>
+    <color name="alphablue">#AA3dc7e6</color>
+    <color name="define_gray">#333</color>
+    <color name="patientblue">#086691</color>
+    <color name="red">#CC0000</color>
+    <color name="color_ff4d52">#ff4d52</color>
+    <color name="attention_red">#D21807</color>
+    <color name="clear">#0000</color>
+    <color name="clearnew">#00000000</color>
+    <color name="grayd">#dddddd</color>
+    <color name="lightblue">#DBE2ED</color>
+    <color name="textgray">#666666</color>
+    <color name="graytemplate">#888888</color>
+    <color name="blue_deep">#0D8AC8</color>
+    <color name="dividerColor">#333333</color>
+    <color name="light_gray">#999999</color>
+    <color name="define_white">#eee</color>
+    <color name="aphagray">#666</color>
+    <color name="bookingorder_red">#BF0909</color>
+    <color name="bookingorder_green">#49BE0A</color>
+    <color name="bookingorder_gray">#B7B7B7</color>
+    <color name="hintcolor">#818181</color>
+
+    <color name="white_gray">#cccccc</color>
+    <color name="orange_warning">#fff4bb</color>
+    <color name="orange_light">#ff9900</color>
+    <color name="orange_dark">#ff6600</color>
+    <color name="ffaa25">#ffaa25</color>
+    <color name="blue_default">#5bb0f1</color>
+    <color name="blue_light">#51a3ff</color>
+    <color name="blue_btn">#3892f7</color>
+    <color name="blue_btn_pre">#2882e7</color>
+    <color name="white_light">#f7f7f4</color>
+    <color name="blue_sky">#8DC7FF</color>
+    <color name="blue_gray">#709fd3</color>
+    <color name="bg_color">#F7F6F5</color>
+    <color name="alpha_bg_color">#88a0a0a0</color>
+    <color name="gray_dark">#fafafa</color>
+    <color name="gray_ac">#acacac</color>
+    <color name="gray_light">#e0e0e0</color>
+    <color name="gray_white">#eeeeee</color>
+    <color name="gray_blue">#637098</color>
+    <color name="dialog_green">#00bb44</color>
+    <color name="notifi_blue">#51a4ff</color>
+    <color name="time_black">#999999</color>
+    <color name="orange_f">#ff4400</color>
+    <color name="orange_g">#f2c8b4</color>
+    <color name="orange_l">#aaffffff</color>
+    <color name="blue_white">#71c4ee</color>
+    <color name="green">#00bb44</color>
+    <color name="bluelight">#bedefe</color>
+    <color name="notifition_gray">#c0c0c0</color>
+    <color name="groups_layout_gray">#eaeff0</color>
+    <color name="groups_line_gray">#bebebe</color>
+    <color name="case_status_green">#44cd76</color>
+    <color name="patient_bg_color">#f7f6f5</color>
+
+    <color name="line_regist">#52a3ff</color>
+
+    <color name="bg_ededed">#ededed</color>
+
+    <!-- 我的服务状态颜色值 -->
+    <color name="service_default_color">#009999</color>
+
+    <color name="service_orange">#ff4400</color>
+    <color name="service_green">#00bb44</color>
+    <color name="service_gray">#999999</color>
+    <color name="dialog_orange">#ff5500</color>
+    <color name="dialog_orange1">#ff6600</color>
+
+    <color name="orange">#ff6600</color>
+    <color name="dark_orange">#ff4400</color>
+    <color name="black_text">#333333</color>
+    <color name="black">@android:color/black</color>
+    <color name="twodcode_bg">#666666</color>
+    <color name="orange_f5b740">#f5b740</color>
+    <color name="patient_title_gray">#EEEEEE</color>
+    <!--     老的未加深得颜色 3.0.2统一加深	<color name="patient_bg_gray">#F5F5F5</color> -->
+    <color name="patient_bg_gray">#ebeef0</color>
+
+    <color name="new_gray">#d4d4d4</color>
+    <color name="photo_gray">#b4b4b4</color>
+    <color name="search_bg_gray">#f0f0f0</color>
+    <color name="create_group_color">#0086E5</color>
+    <color name="dark_green_btn">#ff03d0ad</color>
+    <color name="green_btn">#ff00bca8</color>
+    <color name="bg_dynamic_header">#D6D6D6</color>
+
+    <color name="green_dark">#008ca8</color>
+    <color name="green_light">#03d0ad</color>
+    <color name="dark_blue">#0086e5</color>
+    <color name="blue_normal">#48aeff</color>
+    <color name="light_blue">#e3f3ff</color>
+    <color name="orang_dark">#ff4400</color>
+    <color name="orang_normal">#ff6600</color>
+    <color name="orang_light">#feead2</color>
+    <!--  老的未加深得颜色 3.0.2统一加深  <color name="netcase_bg">#F5F5F5</color> -->
+    <color name="netcase_bg">#ebeef0</color>
+    <color name="color_cf">#cfcfcf</color>
+    <color name="search_result_title_color">#D6E6F2</color>
+    <color name="line_gray_color">#cfcfcf</color>
+
+    <color name="outpatient_text">#333333</color>
+    <color name="outpatient_text_gray">#bbbbbb</color>
+    <color name="outpatient_bg_gray">#ebeef0</color>
+    <!--    老的未加深得颜色 3.0.2统一加深	<color name="outpatient_bg_gray">#F5F5F5</color> -->
+    <color name="outpatient_alpha_bg_gray">#99F5F5F5</color>
+    <color name="outpatient_txt_gray">#999999</color>
+    <color name="outpatient_image_line_gray">#cbcbcb</color>
+    <color name="outpatient_green_dark">#00bca8</color>
+    <color name="outpatient_green_light">#03d0ad</color>
+    <color name="outpatient_blue_dark">#0086e5</color>
+    <color name="outpatient_blue_normal">#48aeff</color>
+    <color name="outpatient_blue_light">#e3f3ff</color>
+    <color name="outpatient_orang_dark">#ff4400</color>
+    <color name="outpatient_orang_normal">#ff6600</color>
+    <color name="outpatient_orang_light">#feead2</color>
+    <color name="article_bg_gray">#888888</color>
+    <color name="activity_gray_bg">#efefef</color>
+    <color name="divider_color">#dfdfdf</color>
+    <color name="color_96c6ec">#96c6ec</color>
+
+    <color name="shape_gray">#ececec</color>
+    <color name="shape_gray_dark">#e5e5e5</color>
+    <color name="reply_bg">#edf7ff</color>
+    <color name="voice_time_color">#89cbff</color>
+    <color name="gray_view_color">#1f000000</color>
+    <color name="black_shade">#3f000000</color>
+    <color name="progress_green">#6ec63c</color>
+    <color name="text_green">#40be00</color>
+    <color name="pop_grid_bg">#DCDCDC</color>
+    <color name="gray_e5e3e3">#e5e3e3</color>
+
+    <!-- *****************************重构分隔符，新添加资源在此分隔符之下*************************** -->
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_gray">#eaeef1</color>
+    <color name="line_gray">#cfcfcf</color>
+    <color name="text_blue">#0099fe</color>
+
+
+    <color name="text_default">#2c2c2c</color>
+    <color name="text_gray">#666666</color>
+    <color name="text_light_black">#343434</color>
+
+    <!--文字色值：深灰  YQH 20140410-->
+    <color name="color_text_deep_gray">#333333</color>
+    <!--文字色值：中灰  YQH 20140410-->
+    <color name="color_text_middle_gray">#666666</color>
+    <!--文字色值：浅灰  YQH 20140410-->
+    <color name="color_text_light_gray">#999999</color>
+    <!--文字色值：淡灰  YQH 20140410-->
+    <color name="color_text_faint_gray">#c4c4c4</color>
+    <!--文字色值：淡灰  YQH 20140410-->
+    <color name="color_text_gray_5c5c5c">#5c5c5c</color>
+    <!--文字色值：淡灰  YQH 20140410-->
+    <color name="color_text_gray_e4e4e4">#e4e4e4</color>
+    <!--文字色值：灰白色  YQH 20140410-->
+    <color name="color_text_graywhite">#cccccc</color>
+    <!--文字色值：深绿  YQH 20140410-->
+    <color name="color_text_deep_green">#3e4f38</color>
+    <!--文字色值：绿  YQH 20140410-->
+    <color name="color_text_green">#009900</color>
+    <!--文字色值：绿  YQH 20140410-->
+    <color name="color_text_green_62b553">#62b553</color>
+    <!--文字色值：浅绿  YQH 20140410-->
+    <color name="color_text_light_green">#a0dd8d</color>
+    <!--文字色值：淡绿  YQH 20140410-->
+    <color name="color_text_faint_green">#cff2c4</color>
+    <!--文字色值：#ECECEC-->
+    <color name="color_text_ececec">#ECECEC</color>
+    <!--文字色值：#A27F5d-->
+    <color name="color_text_a27f5d">#A27F5d</color>
+    <!--文字色值：#D3A257-->
+    <color name="color_text_d3a257">#D3A257</color>
+    <!--文字色值：#343434-->
+    <color name="color_text_dialog_title">#343434</color>
+
+    <!--文字色值：#8E8E8E-->
+    <color name="color_text_8E8E8E">#8E8E8E</color>
+    <!--文字色值：#989898-->
+    <color name="color_text_989898">#989898</color>
+    <!--文字色值：#84838383-->
+    <color name="color_text_84838383">#84838383</color>
+    <!--文字色值：#99CCCC-->
+    <color name="color_text_99cccc">#99CCCC</color>
+    <!--设置的分割线，绿色：#6bc255-->
+    <color name="color_line_6bc255">#6bc255</color>
+
+    <color name="color_line_b5b5b5">#b5b5b5</color>
+
+
+    <!--start text的颜色 -->
+    <color name="color_text_ff6600">#ff6600</color>
+    <color name="color_text_000000">#000000</color>
+    <color name="color_text_cc0000">#cc0000</color>
+    <color name="color_text_010000">#010000</color>
+    <color name="color_text_ffffff">#ffffff</color>
+    <color name="color_text_999999">#999999</color>
+    <color name="color_text_2aa6fc">#2aa6fc</color>
+    <color name="color_text_48aeff">#48aeff</color>
+    <color name="color_text_0099ff">#0099ff</color>
+    <color name="color_text_666666">#666666</color>
+    <color name="color_text_333333">#333333</color>
+    <color name="color_text_888888">#888888</color>
+    <color name="color_text_aaaaaa">#aaaaaa</color>
+    <color name="color_text_777777">#777777</color>
+    <color name="color_text_676767">#676767</color>
+    <color name="color_text_ff9900">#ff9900</color>
+    <color name="color_text_018def">#018def</color>
+    <color name="color_text_ff9c1b">#ff9c1b</color>
+    <color name="color_text_ff9c00">#ff9c00</color>
+    <color name="color_text_0077ff">#0077ff</color>
+    <color name="color_text_3ec504">#3ec504</color>
+    <color name="color_text_929292">#929292</color>
+    <color name="color_text_007aff">#007aff</color>
+    <color name="color_text_46bec5">#46bec5</color>
+    <color name="color_text_007bff">#007bff</color>
+    <color name="color_bg_fff2bb">#fff2bb</color>
+    <color name="color_bg_f8f8f8">#f8f8f8</color>
+    <color name="blue_text_46a0f8">#46a0f8</color>
+    <color name="gray_btn_dcdcdc">#dcdcdc</color>
+    <!--t弹框-->
+    <color name="btn_gray">#bcbcbc</color>
+
+    <!--网络咨询-->
+    <color name="ora_nc">#fa8d19</color>
+    <color name="bule_008eff">#008eff</color>
+    <!--公共元素-->
+    <color name="gray_f0f0f0">#F0F0F0</color>
+    <color name="white_ffffff">#FFFFFF</color>
+    <color name="gray_dcdcdc">#dcdcdc</color>
+    <color name="gray_666666">#666666</color>
+    <color name="gray_d3d3d3">#d3d3d3</color>
+    <color name="blue_48aeff">#48aeff</color>
+    <color name="blue_e1f0ff">#e1f0ff</color>
+    <color name="red_ff0000">#ff0000</color>
+    <color name="red_ffcaca">#ffcaca</color>
+    <color name="orange_fff600">#FFF600</color>
+    <color name="gray_757575">#757575</color>
+    <color name="gray_969696">#969696</color>
+    <color name="yellow_FA9528">#FA9528</color>
+    <color name="yellow_FFEBD2">#FFEBD2</color>
+    <color name="orange_ff8c28">#ff8c28</color>
+    <color name="color_ff8c08">#ff8c08</color>
+    <color name="blue_48aefd">#48aefd</color>
+</resources>

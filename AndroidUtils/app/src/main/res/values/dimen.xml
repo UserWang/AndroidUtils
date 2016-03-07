@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bigest">30sp</dimen>
+    <dimen name="twenty5">25sp</dimen>
+    <dimen name="twenty4">24sp</dimen>
+    <dimen name="twenty3">23sp</dimen>
+    <dimen name="bigger">22sp</dimen>
+    <dimen name="twenty2">22sp</dimen>
+    <dimen name="twenty1">21sp</dimen>
+    <dimen name="twenty">20sp</dimen>
+    <dimen name="nineteen">19sp</dimen>
+    <dimen name="big">18sp</dimen>
+    <dimen name="eighteen">18sp</dimen>
+    <dimen name="seventeen">17sp</dimen>
+    <dimen name="normal">16sp</dimen>
+    <dimen name="fiftheen">15sp</dimen>
+    <dimen name="small">14sp</dimen>
+    <dimen name="fouteen">14sp</dimen>
+    <dimen name="smallHumor">12sp</dimen>
+    <dimen name="smaller">10sp</dimen>
+    <dimen name="twelve">12sp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="thirteen">13sp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_17">17dp</dimen>
+    <dimen name="padding_18">18dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+   
+    <dimen name="five">5dp</dimen>
+    <dimen name="two">2dp</dimen>
+    <dimen name="pointfive">1dp</dimen>
+    <dimen name="list_line">0.5dp</dimen>
+    <dimen name="pading_ten">10dp</dimen>
+    <dimen name="view_pager_space">-1dp</dimen>
+    
+    <dimen name="a_hlistview_width">110dp</dimen>
+
+    <!-- *****************************重构分隔符，新添加资源在此分隔符之下*************************** -->
+
+    <!--  添加统一 dimen字段 YQH 20140113 -->
+
+    <dimen name="dimen_0.5">0.5dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_3">3dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_7">7dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_9">9dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_11">11dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_13">13dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_17">17dp</dimen>
+    <dimen name="dimen_18">18dp</dimen>
+    <dimen name="dimen_19">19dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_21">21dp</dimen>
+    <dimen name="dimen_22">22dp</dimen>
+    <dimen name="dimen_23">23dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_25">25dp</dimen>
+    <dimen name="dimen_26">26dp</dimen>
+    <dimen name="dimen_27">27dp</dimen>
+    <dimen name="dimen_28">28dp</dimen>
+    <dimen name="dimen_29">29dp</dimen>
+    <dimen name="dimen_30">30dp</dimen>
+    <dimen name="dimen_31">32dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_33">33dp</dimen>
+    <dimen name="dimen_34">34dp</dimen>
+    <dimen name="dimen_36">36dp</dimen>
+    <dimen name="dimen_38">38dp</dimen>
+    <dimen name="dimen_39">39dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_41">41dp</dimen>
+    <dimen name="dimen_42">42dp</dimen>
+    <dimen name="dimen_44">44dp</dimen>
+    <dimen name="dimen_45">45dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="dimen_51">51dp</dimen>
+    <dimen name="dimen_53">53dp</dimen>
+    <dimen name="dimen_54">54dp</dimen>
+    <dimen name="dimen_55">55dp</dimen>
+    <dimen name="dimen_56">56dp</dimen>
+    <dimen name="dimen_57">57dp</dimen>
+    <dimen name="dimen_58">58dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_64">64dp</dimen>
+    <dimen name="dimen_65">65dp</dimen>
+    <dimen name="dimen_66">66dp</dimen>
+    <dimen name="dimen_67">67dp</dimen>
+    <!--<dimen name="dimen_68">68dp</dimen>-->
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_76">76dp</dimen>
+    <dimen name="dimen_79">79dp</dimen>
+    <dimen name="dimen_80">80dp</dimen>
+    <dimen name="dimen_86">86dp</dimen>
+    <dimen name="dimen_90">90dp</dimen>
+    <dimen name="dimen_100">100dp</dimen>
+    <dimen name="dimen_110">110dp</dimen>
+    <dimen name="dimen_120">120dp</dimen>
+    <dimen name="dimen_132">132dp</dimen>
+    <dimen name="dimen_135">135dp</dimen>
+    <dimen name="dimen_150">150dp</dimen>
+    <dimen name="dimen_157">157dp</dimen>
+    <dimen name="dimen_162">162dp</dimen>
+    <dimen name="dimen_168">168dp</dimen>
+    <dimen name="dimen_270">270dp</dimen>
+    <dimen name="dimen_208">208dp</dimen>
+    <dimen name="dimen_180">180dp</dimen>
+    <dimen name="dimen_220">220dp</dimen>
+    <dimen name="dimen_280">280dp</dimen>
+    <dimen name="dimen_300">300dp</dimen>
+    <dimen name="dialog_width">280dp</dimen>
+    <dimen name="dimen_330">330dp</dimen>
+    <dimen name="dialog_height">400dp</dimen>
+    <dimen name="button_width">340dp</dimen>
+
+    <!-- ui统一的字体大小，根据ui确定的大小统一修改，请以后再有新的文字大小添加到此处扩展 YQH 20140221  -->
+    <!--字号：最大  34px-->
+    <dimen name="text_size_biggest">21.6dip</dimen>
+    <!--字号：更大  28px-->
+    <dimen name="text_size_bigger">20dip</dimen>
+    <!--字号：大   26px-->
+    <dimen name="text_size_big">18.6dip</dimen>
+    <!--字号：中  24px-->
+    <dimen name="text_size_middle">17.4dip</dimen>
+    <!--字号：小  20px-->
+    <dimen name="text_size_small">16.8dip</dimen>
+    <!--字号：更小  18px-->
+    <dimen name="text_size_smaller">13.4dip</dimen>
+    <!--字号：最小  16px-->
+    <dimen name="text_size_smallest">12dip</dimen>
+    <!--字号：微小  14px-->
+    <dimen name="text_size_tiny">9.4dip</dimen>
+
+    <dimen name="text_size_old_super_large">22dip</dimen>
+    <dimen name="text_size_old_large">18dip</dimen>
+    <dimen name="text_size_old_middle">16dip</dimen>
+    <dimen name="text_size_old_small">14dip</dimen>
+    <dimen name="text_size_old_smaller">12dip</dimen>
+    <dimen name="text_size_old_least">10dip</dimen>
+    <dimen name="text_size_old_tiny">9dip</dimen>
+
+    <dimen name="text_size_amazing_large">25dip</dimen>
+    <dimen name="text_size_super_large">22dip</dimen>
+    <dimen name="text_size_large">18dip</dimen>
+    <dimen name="text_size_least">10dip</dimen>
+
+    <dimen name="text_size_40">20sp</dimen>
+    <dimen name="text_size_38">19sp</dimen>
+    <dimen name="text_size_48">24sp</dimen>
+    <dimen name="text_size_50">25sp</dimen>
+    <dimen name="text_size_36">18sp</dimen>
+    <dimen name="text_size_34">17sp</dimen>
+    <dimen name="text_size_30">15sp</dimen>
+    <dimen name="text_size_32">16sp</dimen>
+    <dimen name="text_size_28">14sp</dimen>
+    <dimen name="text_size_26">13sp</dimen>
+    <dimen name="text_size_24">12sp</dimen>
+    <dimen name="text_size_22">11sp</dimen>
+    <dimen name="text_size_20">10sp</dimen>
+
+    <!--义诊-->
+    <dimen name="bas_yz_rangtop">0dp</dimen>
+
+</resources>
